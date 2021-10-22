@@ -24,7 +24,6 @@ namespace DAY_9_Assignment9
                 Console.WriteLine( true);
             }
 
-
             Console.ReadLine();
         }
     }
