@@ -17,7 +17,6 @@ namespace DAY_9_Assignment9
             {
                 factorial = factorial * i;
               
-
             }
 
             Console.WriteLine("factorial = " + factorial);
