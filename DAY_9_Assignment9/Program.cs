@@ -9,6 +9,7 @@ namespace DAY_9_Assignment9
             PrimeNumber primeNumber = new PrimeNumber();
             primeNumber.checkPrimeNumber();
 
+
             Factorial factorial = new Factorial();
             factorial.findFactorial();
         }
